@@ -1,0 +1,9 @@
+[package]
+name = "Daemon_Demi"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"
+notify = "8.2.0"
+rand = "0.9.2"
